@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/fabienschlegel" target="blank"><img src="https://img.shields.io/twitter/follow/fabienschlegel?logo=twitter&style=for-the-badge" alt="fabienschlegel" /></a> </p>
 
-- 🔭 I’m currently working on [Dévoreur 2 Code Version 2](https://github.com/fabienschlegel/d2c-v2)
+- 🔭 I’m currently working on [my technical site](https://github.com/fabienschlegel/d2c-v2)
 
-- 📝 I regularly write articles on [https://www.devoreur2code.com/](https://www.devoreur2code.com/)
+- 📝 I regularly write articles on [Dévoreur 2 Code](https://www.devoreur2code.com/)
 
 - 💬 Ask me about **React, Typescript, Javascript, Django, Python**
 
